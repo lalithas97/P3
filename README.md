@@ -1,11 +1,7 @@
 # sporty-shoes
 ## Developer 
 
-**Vikram C**
-
-A passionate developer from India
-
-***Connect me on*** [LinkedIn](https://www.linkedin.com/in/vikram-chandrareddy-851393172/)
+**CH Sowmya**
 
 ## Overview
 Sporty Shoes is a company that manufactures and sells sports shoes. They have a walk-in store, and now, they wish to launch their e-commerce portal sportyshoes.com.
